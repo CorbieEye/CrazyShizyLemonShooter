@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2030d3ae84aeedb49ac6d6a717747990, type: 3}
+  m_Name: MonkeyHead
+  m_EditorClassIdentifier: 
+  _name: MonkeyHead
+  _icon: {fileID: 0}
+  _model: {fileID: 2323002232944840628, guid: 1c094013032928f4b8617eb5159664c6, type: 3}
+  _effects:
+  - {fileID: 11400000, guid: f4bbb11850ced3d46a2643ea04a5b0a5, type: 2}
